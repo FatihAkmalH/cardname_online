@@ -150,15 +150,14 @@ footer {
 }
 
 
-@media screen and (max-width: 768px){
-    :is(.container, footer){
+@media screen and (min-width: 600px){
+    :is(.container, .col-1, footer){
         width: 100%;
     }
     .container {
         margin-bottom: 0;
     }
     .col-1 {
-        width: 90%;
         flex-wrap: wrap;
         text-align: center;
     }

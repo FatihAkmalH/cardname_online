@@ -151,7 +151,7 @@ footer {
 
 
 @media screen and (max-width: 600px){
-    :is(.container, .col-1, footer){
+    .container, .col-1, footer{
         width: 100%;
     }
     .container {

@@ -135,6 +135,11 @@ body {
     text-transform: uppercase;
     transition: 0.5s ease-in;
 }
+.col-2 .row:hover .medium{
+    color: #191919;
+    text-transform: uppercase;
+    transition: 0.5s ease-in;
+}
 
 
 

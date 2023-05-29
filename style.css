@@ -136,7 +136,7 @@ body {
     transition: 0.5s ease-in;
 }
 .col-2 .row:hover .medium{
-    color: #191919;
+    color: #111;
     text-transform: uppercase;
     transition: 0.5s ease-in;
 }
@@ -145,7 +145,7 @@ body {
 
 footer {
     position: absolute;
-    bottom: -258px;
+    bottom: -325px;
     padding: 10px;
     font-weight: bold;
     font-size: 14px;
